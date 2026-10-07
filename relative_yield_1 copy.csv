@@ -1,0 +1,1477 @@
+exp_num,richness,treatment,root_biomass
+4_VWR_1.jpg,1,virginia ,0.078
+4_VWR_2.jpg,1,virginia ,0.083
+4_VWR_3.jpg,1,virginia ,0.026
+4_VWR_4.jpg,1,virginia ,0.103
+4_VWR_5.jpg,1,virginia ,0.052
+4_VWR_6.jpg,1,virginia ,0.186
+4_VWR_7.jpg,1,virginia ,0.142
+4_VWR_8.jpg,1,virginia ,0.059
+4_VWR_9.jpg,1,virginia ,0.091
+4_VWR_10.jpg,1,virginia ,0.097
+4_VWR_11.jpg,1,virginia ,0.135
+4_VWR_12.jpg,1,virginia ,0.138
+4_VWR_13.jpg,1,virginia ,0.158
+4_VWR_14.jpg,1,virginia ,0.422
+4_VWR_15.jpg,1,virginia ,0.05
+4_VWR_16.jpg,1,virginia ,0.055
+4_VWR_17.jpg,1,virginia ,0.042
+4_VWR_18.jpg,1,virginia ,0.039
+5_VWR_1.jpg,1,virginia ,0.116
+5_VWR_2.jpg,1,virginia ,0.035
+5_VWR_3.jpg,1,virginia ,0.148
+5_VWR_4.jpg,1,virginia ,0.1
+5_VWR_5.jpg,1,virginia ,0.098
+5_VWR_6.jpg,1,virginia ,0.229
+5_VWR_7.jpg,1,virginia ,0.072
+5_VWR_8.jpg,1,virginia ,0.049
+5_VWR_9.jpg,1,virginia ,0.326
+5_VWR_10.jpg,1,virginia ,0.111
+5_VWR_11.jpg,1,virginia ,0.669
+5_VWR_12.jpg,1,virginia ,0.271
+5_VWR_13.jpg,1,virginia ,0.104
+5_VWR_14.jpg,1,virginia ,0.151
+5_VWR_15.jpg,1,virginia ,0.067
+5_VWR_16.jpg,1,virginia ,0.115
+5_VWR_17.jpg,1,virginia ,0.141
+5_VWR_18.jpg,1,virginia ,0.25
+6_VWR_1.jpg,1,virginia ,0.07
+6_VWR_2.jpg,1,virginia ,0.08
+6_VWR_3.jpg,1,virginia ,0.03
+6_VWR_4.jpg,1,virginia ,0.07
+6_VWR_5.jpg,1,virginia ,0.11
+6_VWR_6.jpg,1,virginia ,0.01
+6_VWR_7.jpg,1,virginia ,0.05
+6_VWR_8.jpg,1,virginia ,0.36
+6_VWR_9.jpg,1,virginia ,0.11
+6_VWR_10.jpg,1,virginia ,0.26
+6_VWR_11.jpg,1,virginia ,0.55
+6_VWR_12.jpg,1,virginia ,0.28
+6_VWR_13.jpg,1,virginia ,0.21
+6_VWR_14.jpg,1,virginia ,0.22
+6_VWR_15.jpg,1,virginia ,0.39
+6_VWR_16.jpg,1,virginia ,0.54
+6_VWR_17.jpg,1,virginia ,0.06
+6_VWR_18.jpg,1,virginia ,0.02
+7_SG_1.jpg,1,switchgrass,0.36
+7_SG_2.jpg,1,switchgrass,0.57
+7_SG_3.jpg,1,switchgrass,0.09
+7_SG_4.jpg,1,switchgrass,0.35
+7_SG_5.jpg,1,switchgrass,0.32
+7_SG_6.jpg,1,switchgrass,0.26
+7_SG_7.jpg,1,switchgrass,1.98
+7_SG_8.jpg,1,switchgrass,0.11
+7_SG_9.jpg,1,switchgrass,0.18
+7_SG_10.jpg,1,switchgrass,0.06
+7_SG_11.jpg,1,switchgrass,0.17
+7_SG_12.jpg,1,switchgrass,0.14
+7_SG_13.jpg,1,switchgrass,0.07
+7_SG_14.jpg,1,switchgrass,2.32
+7_SG_15.jpg,1,switchgrass,1.13
+7_SG_16.jpg,1,switchgrass,3.08
+7_SG_17.jpg,1,switchgrass,1.68
+7_SG_18.jpg,1,switchgrass,7.9
+8_SG_1.jpg,1,switchgrass,4.44
+8_SG_2.jpg,1,switchgrass,3.28
+8_SG_3.jpg,1,switchgrass,2.05
+8_SG_4.jpg,1,switchgrass,1.35
+8_SG_5.jpg,1,switchgrass,1.22
+8_SG_6.jpg,1,switchgrass,2.27
+8_SG_7.jpg,1,switchgrass,2.34
+8_SG_8.jpg,1,switchgrass,1.2
+8_SG_9.jpg,1,switchgrass,0.27
+8_SG_10.jpg,1,switchgrass,2.14
+8_SG_11.jpg,1,switchgrass,0.87
+8_SG_12.jpg,1,switchgrass,0.62
+8_SG_13.jpg,1,switchgrass,2.49
+8_SG_14.jpg,1,switchgrass,0.77
+8_SG_15.jpg,1,switchgrass,0.48
+8_SG_16.jpg,1,switchgrass,1.5
+8_SG_17.jpg,1,switchgrass,0.77
+8_SG_18.jpg,1,switchgrass,0.5
+9_SG_1.jpg,1,switchgrass,0.54
+9_SG_2.jpg,1,switchgrass,0.41
+9_SG_3.jpg,1,switchgrass,0.47
+9_SG_4.jpg,1,switchgrass,0.34
+9_SG_5.jpg,1,switchgrass,0.9
+9_SG_6.jpg,1,switchgrass,0.37
+9_SG_7.jpg,1,switchgrass,0.64
+9_SG_8.jpg,1,switchgrass,0.35
+9_SG_9.jpg,1,switchgrass,0.51
+9_SG_10.jpg,1,switchgrass,0.04
+9_SG_11.jpg,1,switchgrass,0.96
+9_SG_12.jpg,1,switchgrass,1.48
+9_SG_13.jpg,1,switchgrass,2.53
+9_SG_14.jpg,1,switchgrass,2.33
+9_SG_15.jpg,1,switchgrass,1.15
+9_SG_16.jpg,1,switchgrass,0.17
+9_SG_17.jpg,1,switchgrass,1.41
+9_SG_18.jpg,1,switchgrass,1.3
+10_BG_1.jpg,1,barnyard,0.81
+10_BG_2.jpg,1,barnyard,0.42
+10_BG_3.jpg,1,barnyard,0.44
+10_BG_4.jpg,1,barnyard,1.13
+10_BG_5.jpg,1,barnyard,0.46
+10_BG_6.jpg,1,barnyard,1.02
+10_BG_7.jpg,1,barnyard,0.15
+10_BG_8.jpg,1,barnyard,0.13
+10_BG_9.jpg,1,barnyard,0.59
+10_BG_10.jpg,1,barnyard,0.15
+10_BG_11.jpg,1,barnyard,0.03
+10_BG_12.jpg,1,barnyard,0.08
+10_BG_13.jpg,1,barnyard,0.2
+10_BG_14.jpg,1,barnyard,0.33
+10_BG_15.jpg,1,barnyard,0.06
+10_BG_16.jpg,1,barnyard,0.07
+10_BG_17.jpg,1,barnyard,0.14
+10_BG_18.jpg,1,barnyard,0.1
+11_BG_1.jpg,1,barnyard,0.01
+11_BG_2.jpg,1,barnyard,0.01
+11_BG_3.jpg,1,barnyard,0.02
+11_BG_4.jpg,1,barnyard,0.16
+11_BG_5.jpg,1,barnyard,0.2
+11_BG_6.jpg,1,barnyard,0.01
+11_BG_7.jpg,1,barnyard,0.01
+11_BG_8.jpg,1,barnyard,0.26
+11_BG_9.jpg,1,barnyard,0.13
+11_BG_10.jpg,1,barnyard,0.08
+11_BG_11.jpg,1,barnyard,0.24
+11_BG_12.jpg,1,barnyard,0.89
+11_BG_13.jpg,1,barnyard,0.13
+11_BG_14.jpg,1,barnyard,0.07
+11_BG_15.jpg,1,barnyard,0.1
+11_BG_16.jpg,1,barnyard,0.18
+11_BG_17.jpg,1,barnyard,0.14
+11_BG_18.jpg,1,barnyard,0.17
+12_BG_1.jpg,1,barnyard,0.24
+12_BG_2.jpg,1,barnyard,0.11
+12_BG_3.jpg,1,barnyard,0.1
+12_BG_4.jpg,1,barnyard,0.07
+12_BG_5.jpg,1,barnyard,0.04
+12_BG_6.jpg,1,barnyard,0.21
+12_BG_7.jpg,1,barnyard,0.13
+12_BG_8.jpg,1,barnyard,0.16
+12_BG_9.jpg,1,barnyard,0.2
+12_BG_10.jpg,1,barnyard,0.11
+12_BG_11.jpg,1,barnyard,0.08
+12_BG_12.jpg,1,barnyard,0.12
+12_BG_13.jpg,1,barnyard,0.14
+12_BG_14.jpg,1,barnyard,0.15
+12_BG_15.jpg,1,barnyard,0.06
+12_BG_16.jpg,1,barnyard,0.39
+12_BG_17.jpg,1,barnyard,0.82
+12_BG_18.jpg,1,barnyard,0.47
+13_RT_1.jpg,1,redtop,0.179
+13_RT_2.jpg,1,redtop,0.002
+13_RT_3.jpg,1,redtop,0.443
+13_RT_4.jpg,1,redtop,0.4
+13_RT_5.jpg,1,redtop,0.641
+13_RT_6.jpg,1,redtop,0.087
+13_RT_7.jpg,1,redtop,0.048
+13_RT_8.jpg,1,redtop,0.012
+13_RT_9.jpg,1,redtop,0.021
+13_RT_10.jpg,1,redtop,0.81
+13_RT_11.jpg,1,redtop,0.214
+13_RT_12.jpg,1,redtop,0.064
+13_RT_13.jpg,1,redtop,1.469
+13_RT_14.jpg,1,redtop,0.084
+13_RT_15.jpg,1,redtop,4.787
+13_RT_16.jpg,1,redtop,0.444
+13_RT_17.jpg,1,redtop,0.338
+13_RT_18.jpg,1,redtop,3.936
+14_RT_1.jpg,1,redtop,0.09
+14_RT_2.jpg,1,redtop,0.18
+14_RT_3.jpg,1,redtop,0.13
+14_RT_4.jpg,1,redtop,0.14
+14_RT_5.jpg,1,redtop,0.1
+14_RT_6.jpg,1,redtop,0.05
+14_RT_7.jpg,1,redtop,0.27
+14_RT_8.jpg,1,redtop,0.16
+14_RT_9.jpg,1,redtop,0.39
+14_RT_10.jpg,1,redtop,0.17
+14_RT_11.jpg,1,redtop,0.11
+14_RT_12.jpg,1,redtop,0.15
+14_RT_13.jpg,1,redtop,0.08
+14_RT_14.jpg,1,redtop,0.15
+14_RT_15.jpg,1,redtop,0.08
+14_RT_16.jpg,1,redtop,0.01
+14_RT_17.jpg,1,redtop,0.71
+14_RT_18.jpg,1,redtop,0.84
+15_RT_1.jpg,1,redtop,0.677
+15_RT_2.jpg,1,redtop,0.78
+15_RT_3.jpg,1,redtop,0.195
+15_RT_4.jpg,1,redtop,0.374
+15_RT_5.jpg,1,redtop,0.077
+15_RT_6.jpg,1,redtop,0.237
+15_RT_7.jpg,1,redtop,0.068
+15_RT_8.jpg,1,redtop,0.265
+15_RT_9.jpg,1,redtop,0.112
+15_RT_10.jpg,1,redtop,0.38
+15_RT_11.jpg,1,redtop,0.059
+15_RT_12.jpg,1,redtop,0.101
+15_RT_13.jpg,1,redtop,0.286
+15_RT_14.jpg,1,redtop,0.023
+15_RT_15.jpg,1,redtop,0.098
+15_RT_16.jpg,1,redtop,0.154
+15_RT_17.jpg,1,redtop,0.199
+15_RT_18.jpg,1,redtop,0.925
+16_AR_1.jpg,1,ryegrass,0.06
+16_AR_2.jpg,1,ryegrass,0.02
+16_AR_3.jpg,1,ryegrass,0.39
+16_AR_4.jpg,1,ryegrass,0.32
+16_AR_5.jpg,1,ryegrass,0.35
+16_AR_6.jpg,1,ryegrass,0.22
+16_AR_7.jpg,1,ryegrass,0.22
+16_AR_8.jpg,1,ryegrass,0.13
+16_AR_9.jpg,1,ryegrass,0.22
+16_AR_10.jpg,1,ryegrass,0.17
+16_AR_11.jpg,1,ryegrass,0.09
+16_AR_12.jpg,1,ryegrass,0.07
+16_AR_13.jpg,1,ryegrass,0.12
+16_AR_14.jpg,1,ryegrass,0.08
+16_AR_15.jpg,1,ryegrass,0.05
+16_AR_16.jpg,1,ryegrass,0.09
+16_AR_17.jpg,1,ryegrass,0.07
+16_AR_18.jpg,1,ryegrass,0.03
+17_AR_1.jpg,1,ryegrass,0.15
+17_AR_2.jpg,1,ryegrass,0.07
+17_AR_3.jpg,1,ryegrass,0.12
+17_AR_4.jpg,1,ryegrass,0.17
+17_AR_5.jpg,1,ryegrass,0.07
+17_AR_6.jpg,1,ryegrass,0.13
+17_AR_7.jpg,1,ryegrass,0.55
+17_AR_8.jpg,1,ryegrass,0.18
+17_AR_9.jpg,1,ryegrass,0.11
+17_AR_10.jpg,1,ryegrass,0.02
+17_AR_11.jpg,1,ryegrass,0.12
+17_AR_12.jpg,1,ryegrass,0.09
+17_AR_13.jpg,1,ryegrass,0.13
+17_AR_14.jpg,1,ryegrass,0.21
+17_AR_15.jpg,1,ryegrass,0.59
+17_AR_16.jpg,1,ryegrass,0.34
+17_AR_17.jpg,1,ryegrass,0.06
+17_AR_18.jpg,1,ryegrass,0.23
+18_AR_1.jpg,1,ryegrass,0.379
+18_AR_2.jpg,1,ryegrass,0.105
+18_AR_3.jpg,1,ryegrass,0.027
+18_AR_4.jpg,1,ryegrass,0.166
+18_AR_5.jpg,1,ryegrass,0.179
+18_AR_6.jpg,1,ryegrass,0.197
+18_AR_7.jpg,1,ryegrass,0.468
+18_AR_8.jpg,1,ryegrass,0.217
+18_AR_9.jpg,1,ryegrass,0.086
+18_AR_10.jpg,1,ryegrass,0.096
+18_AR_11.jpg,1,ryegrass,0.019
+18_AR_12.jpg,1,ryegrass,0.056
+18_AR_13.jpg,1,ryegrass,0.033
+18_AR_14.jpg,1,ryegrass,0.094
+18_AR_15.jpg,1,ryegrass,0.011
+18_AR_16.jpg,1,ryegrass,0.023
+18_AR_17.jpg,1,ryegrass,0.015
+18_AR_18.jpg,1,ryegrass,0.012
+19_WC_1.jpg,1,clover,0.61
+19_WC_2.jpg,1,clover,0.63
+19_WC_3.jpg,1,clover,1.21
+19_WC_4.jpg,1,clover,0.62
+19_WC_5.jpg,1,clover,0.74
+19_WC_6.jpg,1,clover,0.76
+19_WC_7.jpg,1,clover,0.61
+19_WC_8.jpg,1,clover,0.24
+19_WC_9.jpg,1,clover,0.19
+19_WC_10.jpg,1,clover,0.21
+19_WC_11.jpg,1,clover,0.29
+19_WC_12.jpg,1,clover,0.5
+19_WC_13.jpg,1,clover,0.69
+19_WC_14.jpg,1,clover,0.39
+19_WC_15.jpg,1,clover,0.18
+19_WC_16.jpg,1,clover,0.3
+19_WC_17.jpg,1,clover,0.28
+19_WC_18.jpg,1,clover,0.14
+20_WC_1.jpg,1,clover,0.53
+20_WC_2.jpg,1,clover,0.26
+20_WC_3.jpg,1,clover,0.06
+20_WC_4.jpg,1,clover,0.01
+20_WC_5.jpg,1,clover,0.02
+20_WC_6.jpg,1,clover,0.07
+20_WC_7.jpg,1,clover,0.3
+20_WC_8.jpg,1,clover,0.24
+20_WC_9.jpg,1,clover,0.29
+20_WC_10.jpg,1,clover,0.33
+20_WC_11.jpg,1,clover,0.58
+20_WC_12.jpg,1,clover,0.34
+20_WC_13.jpg,1,clover,0.57
+20_WC_14.jpg,1,clover,0.24
+20_WC_15.jpg,1,clover,0.26
+20_WC_16.jpg,1,clover,0.35
+20_WC_17.jpg,1,clover,0.17
+20_WC_18.jpg,1,clover,1.07
+21_WC_1.jpg,1,clover,0.06
+21_WC_2.jpg,1,clover,0.04
+21_WC_3.jpg,1,clover,0.14
+21_WC_4.jpg,1,clover,0.1
+21_WC_5.jpg,1,clover,0.11
+21_WC_6.jpg,1,clover,0.52
+21_WC_7.jpg,1,clover,0.15
+21_WC_8.jpg,1,clover,0.43
+21_WC_9.jpg,1,clover,0.31
+21_WC_10.jpg,1,clover,0.33
+21_WC_11.jpg,1,clover,0.26
+21_WC_12.jpg,1,clover,0.4
+21_WC_13.jpg,1,clover,0.15
+21_WC_14.jpg,1,clover,0.08
+21_WC_15.jpg,1,clover,0.09
+21_WC_16.jpg,1,clover,0.1
+21_WC_17.jpg,1,clover,0.25
+21_WC_18.jpg,1,clover,0.76
+22_VWR_1.jpg,2,virginia ,0.01
+22_VWR_2.jpg,2,virginia ,0.01
+22_VWR_3.jpg,2,virginia ,0.01
+22_VWR_4.jpg,2,virginia ,0.02
+22_VWR_5.jpg,2,virginia ,0.01
+22_VWR_6.jpg,2,virginia ,0.28
+22_VWR_7.jpg,2,virginia ,0.01
+22_VWR_8.jpg,2,virginia ,0.07
+22_VWR_9.jpg,2,virginia ,0.04
+22_SG_10.jpg,2,switchgrass,0.63
+22_SG_11.jpg,2,switchgrass,0.28
+22_SG_12.jpg,2,switchgrass,0.1
+22_SG_13.jpg,2,switchgrass,0.53
+22_SG_14.jpg,2,switchgrass,1.7
+22_SG_15.jpg,2,switchgrass,0.55
+22_SG_16.jpg,2,switchgrass,1.67
+22_SG_17.jpg,2,switchgrass,5.64
+22_SG_18.jpg,2,switchgrass,4.43
+23_VWR_1.jpg,2,virginia ,0.08
+23_VWR_2.jpg,2,virginia ,0.09
+23_VWR_3.jpg,2,virginia ,0.02
+23_VWR_4.jpg,2,virginia ,0.23
+23_VWR_5.jpg,2,virginia ,0.08
+23_VWR_6.jpg,2,virginia ,0.03
+23_VWR_7.jpg,2,virginia ,0.19
+23_VWR_8.jpg,2,virginia ,0.07
+23_VWR_9.jpg,2,virginia ,0.15
+23_SG_10.jpg,2,switchgrass,0.21
+23_SG_11.jpg,2,switchgrass,1.9
+23_SG_12.jpg,2,switchgrass,0.75
+23_SG_13.jpg,2,switchgrass,3.8
+23_SG_14.jpg,2,switchgrass,6.67
+23_SG_15.jpg,2,switchgrass,4.58
+23_SG_16.jpg,2,switchgrass,3.27
+23_SG_17.jpg,2,switchgrass,4.24
+23_SG_18.jpg,2,switchgrass,4.33
+24_SG_1.jpg,2,switchgrass,0.53
+24_SG_2.jpg,2,switchgrass,0.07
+24_SG_3.jpg,2,switchgrass,1.01
+24_SG_4.jpg,2,switchgrass,0.71
+24_SG_5.jpg,2,switchgrass,2.18
+24_SG_6.jpg,2,switchgrass,0.07
+24_SG_7.jpg,2,switchgrass,4.48
+24_SG_8.jpg,2,switchgrass,0.72
+24_SG_9.jpg,2,switchgrass,3.41
+24_VWR_10.jpg,2,virginia ,0.01
+24_VWR_11.jpg,2,virginia ,0.04
+24_VWR_12.jpg,2,virginia ,0.19
+24_VWR_13.jpg,2,virginia ,0.03
+24_VWR_14.jpg,2,virginia ,0.05
+24_VWR_15.jpg,2,virginia ,0.04
+24_VWR_16.jpg,2,virginia ,0.01
+24_VWR_17.jpg,2,virginia ,0.11
+24_VWR_18.jpg,2,virginia ,0.02
+25_VWR_1.jpg,2,virginia ,0.02
+25_VWR_2.jpg,2,virginia ,0.01
+25_VWR_3.jpg,2,virginia ,0.01
+25_VWR_4.jpg,2,virginia ,0.01
+25_VWR_5.jpg,2,virginia ,0.01
+25_VWR_6.jpg,2,virginia ,0.03
+25_VWR_7.jpg,2,virginia ,0.03
+25_VWR_8.jpg,2,virginia ,0.02
+25_VWR_9.jpg,2,virginia ,0.01
+25_BG_10.jpg,2,barnyard,0.12
+25_BG_11.jpg,2,barnyard,0.1
+25_BG_12.jpg,2,barnyard,0.27
+25_BG_13.jpg,2,barnyard,0.14
+25_BG_14.jpg,2,barnyard,0.71
+25_BG_15.jpg,2,barnyard,0.46
+25_BG_16.jpg,2,barnyard,0.06
+25_BG_17.jpg,2,barnyard,0.16
+25_BG_18.jpg,2,barnyard,0.17
+26_BG_1.jpg,2,barnyard,0.204
+26_BG_2.jpg,2,barnyard,0.08
+26_BG_3.jpg,2,barnyard,0.056
+26_BG_4.jpg,2,barnyard,0.03
+26_BG_5.jpg,2,barnyard,0.056
+26_BG_6.jpg,2,barnyard,0.238
+26_BG_7.jpg,2,barnyard,0.122
+26_BG_8.jpg,2,barnyard,0.14
+26_BG_9.jpg,2,barnyard,0.095
+26_VWR_10.jpg,2,virginia ,0.033
+26_VWR_11.jpg,2,virginia ,0.035
+26_VWR_12.jpg,2,virginia ,0.04
+26_VWR_13.jpg,2,virginia ,0.07
+26_VWR_14.jpg,2,virginia ,0.021
+26_VWR_15.jpg,2,virginia ,0.041
+26_VWR_16.jpg,2,virginia ,0.04
+26_VWR_17.jpg,2,virginia ,0.027
+26_VWR_18.jpg,2,virginia ,0.029
+27_VWR_1.jpg,2,virginia ,0.01
+27_VWR_2.jpg,2,virginia ,0.01
+27_VWR_3.jpg,2,virginia ,0.01
+27_VWR_4.jpg,2,virginia ,0.01
+27_VWR_5.jpg,2,virginia ,0.01
+27_VWR_6.jpg,2,virginia ,0.01
+27_VWR_7.jpg,2,virginia ,0.01
+27_VWR_8.jpg,2,virginia ,0.01
+27_VWR_9.jpg,2,virginia ,0.01
+27_BG_10.jpg,2,barnyard,0.15
+27_BG_11.jpg,2,barnyard,0.28
+27_BG_12.jpg,2,barnyard,0.01
+27_BG_13.jpg,2,barnyard,0.19
+27_BG_14.jpg,2,barnyard,0.39
+27_BG_15.jpg,2,barnyard,0.69
+27_BG_16.jpg,2,barnyard,0.3
+27_BG_17.jpg,2,barnyard,0.54
+27_BG_18.jpg,2,barnyard,0.4
+28_VWR_1.jpg,2,virginia ,0.2
+28_VWR_2.jpg,2,virginia ,0.165
+28_VWR_3.jpg,2,virginia ,0.506
+28_VWR_4.jpg,2,virginia ,0.374
+28_VWR_5.jpg,2,virginia ,0.159
+28_VWR_6.jpg,2,virginia ,0.889
+28_VWR_7.jpg,2,virginia ,0.198
+28_VWR_8.jpg,2,virginia ,2.415
+28_VWR_9.jpg,2,virginia ,0.627
+28_RT_10.jpg,2,redtop,0.159
+28_RT_11.jpg,2,redtop,0.352
+28_RT_12.jpg,2,redtop,0.176
+28_RT_13.jpg,2,redtop,0.213
+28_RT_14.jpg,2,redtop,0.38
+28_RT_15.jpg,2,redtop,0.046
+28_RT_16.jpg,2,redtop,0.041
+28_RT_17.jpg,2,redtop,1.734
+28_RT_18.jpg,2,redtop,1.091
+29_VWR_1.jpg,2,virginia ,0.23
+29_VWR_2.jpg,2,virginia ,0.019
+29_VWR_3.jpg,2,virginia ,0.235
+29_VWR_4.jpg,2,virginia ,0.494
+29_VWR_5.jpg,2,virginia ,0.338
+29_VWR_6.jpg,2,virginia ,0.042
+29_VWR_7.jpg,2,virginia ,0.037
+29_VWR_8.jpg,2,virginia ,0.543
+29_VWR_9.jpg,2,virginia ,0.433
+29_RT_10.jpg,2,redtop,0.05
+29_RT_11.jpg,2,redtop,0.097
+29_RT_12.jpg,2,redtop,0.795
+29_RT_13.jpg,2,redtop,0.543
+29_RT_14.jpg,2,redtop,0.095
+29_RT_15.jpg,2,redtop,0.231
+29_RT_16.jpg,2,redtop,0.63
+29_RT_17.jpg,2,redtop,0.337
+29_RT_18.jpg,2,redtop,0.203
+30_RT_1.jpg,2,redtop,0.37
+30_RT_2.jpg,2,redtop,0.02
+30_RT_3.jpg,2,redtop,0.16
+30_RT_4.jpg,2,redtop,0.32
+30_RT_5.jpg,2,redtop,0.34
+30_RT_6.jpg,2,redtop,0.01
+30_RT_7.jpg,2,redtop,0.01
+30_RT_8.jpg,2,redtop,0.01
+30_RT_9.jpg,2,redtop,0.01
+30_VWR_10.jpg,2,virginia ,0.08
+30_VWR_11.jpg,2,virginia ,0.22
+30_VWR_12.jpg,2,virginia ,0.33
+30_VWR_13.jpg,2,virginia ,0.15
+30_VWR_14.jpg,2,virginia ,0.32
+30_VWR_15.jpg,2,virginia ,0.15
+30_VWR_16.jpg,2,virginia ,0.62
+30_VWR_17.jpg,2,virginia ,0.12
+30_VWR_18.jpg,2,virginia ,0.06
+31_VWR_1.jpg,2,virginia ,0.011
+31_VWR_2.jpg,2,virginia ,0.006
+31_VWR_3.jpg,2,virginia ,0.027
+31_VWR_4.jpg,2,virginia ,0.073
+31_VWR_5.jpg,2,virginia ,0.053
+31_VWR_6.jpg,2,virginia ,0.045
+31_VWR_7.jpg,2,virginia ,0.034
+31_VWR_8.jpg,2,virginia ,0.094
+31_VWR_9.jpg,2,virginia ,0.117
+31_AR_10.jpg,2,ryegrass,0.031
+31_AR_11.jpg,2,ryegrass,0.02
+31_AR_12.jpg,2,ryegrass,0.053
+31_AR_13.jpg,2,ryegrass,0.066
+31_AR_14.jpg,2,ryegrass,0.002
+31_AR_15.jpg,2,ryegrass,0.073
+31_AR_16.jpg,2,ryegrass,0.093
+31_AR_17.jpg,2,ryegrass,0.478
+31_AR_18.jpg,2,ryegrass,0.028
+32_VWR_1.jpg,2,virginia ,0.095
+32_VWR_2.jpg,2,virginia ,0.26
+32_VWR_3.jpg,2,virginia ,0.04
+32_VWR_4.jpg,2,virginia ,0.036
+32_VWR_5.jpg,2,virginia ,0.062
+32_VWR_6.jpg,2,virginia ,0.006
+32_VWR_7.jpg,2,virginia ,0.142
+32_VWR_8.jpg,2,virginia ,0.018
+32_VWR_9.jpg,2,virginia ,0.02
+32_AR_10.jpg,2,ryegrass,0.005
+32_AR_11.jpg,2,ryegrass,0.007
+32_AR_12.jpg,2,ryegrass,0.003
+32_AR_13.jpg,2,ryegrass,0.047
+32_AR_14.jpg,2,ryegrass,0.113
+32_AR_15.jpg,2,ryegrass,0.022
+32_AR_16.jpg,2,ryegrass,0.033
+32_AR_17.jpg,2,ryegrass,0.039
+32_AR_18.jpg,2,ryegrass,0.1
+33_VWR_1.jpg,2,virginia ,0.005
+33_VWR_2.jpg,2,virginia ,0.094
+33_VWR_3.jpg,2,virginia ,0.004
+33_VWR_4.jpg,2,virginia ,0.026
+33_VWR_5.jpg,2,virginia ,0.086
+33_VWR_6.jpg,2,virginia ,0.088
+33_VWR_7.jpg,2,virginia ,0.018
+33_VWR_8.jpg,2,virginia ,0.021
+33_VWR_9.jpg,2,virginia ,0.055
+33_AR_10.jpg,2,ryegrass,0.02
+33_AR_11.jpg,2,ryegrass,0.063
+33_AR_12.jpg,2,ryegrass,0.097
+33_AR_13.jpg,2,ryegrass,0.056
+33_AR_14.jpg,2,ryegrass,0.033
+33_AR_15.jpg,2,ryegrass,0.025
+33_AR_16.jpg,2,ryegrass,0.09
+33_AR_17.jpg,2,ryegrass,0.034
+33_AR_18.jpg,2,ryegrass,0.287
+34_WC_1.jpg,2,clover,0.84
+34_WC_2.jpg,2,clover,0.36
+34_WC_3.jpg,2,clover,0.55
+34_WC_4.jpg,2,clover,0.14
+34_WC_5.jpg,2,clover,0.65
+34_WC_6.jpg,2,clover,0.45
+34_WC_7.jpg,2,clover,1.25
+34_WC_8.jpg,2,clover,0.21
+34_WC_9.jpg,2,clover,0.96
+34_VWR_10.jpg,2,virginia ,0.23
+34_VWR_11.jpg,2,virginia ,0.13
+34_VWR_12.jpg,2,virginia ,0.12
+34_VWR_13.jpg,2,virginia ,0.32
+34_VWR_14.jpg,2,virginia ,0.22
+34_VWR_15.jpg,2,virginia ,0.25
+34_VWR_16.jpg,2,virginia ,0.29
+34_VWR_17.jpg,2,virginia ,0.07
+34_VWR_18.jpg,2,virginia ,0.31
+35_VWR_1.jpg,2,virginia ,0.157
+35_VWR_2.jpg,2,virginia ,0.11
+35_VWR_3.jpg,2,virginia ,0.109
+35_VWR_4.jpg,2,virginia ,0.013
+35_VWR_5.jpg,2,virginia ,0.052
+35_VWR_6.jpg,2,virginia ,0.065
+35_VWR_7.jpg,2,virginia ,0.014
+35_VWR_8.jpg,2,virginia ,0.012
+35_VWR_9.jpg,2,virginia ,0.09
+35_WC_10.jpg,2,clover,1.286
+35_WC_11.jpg,2,clover,0.496
+35_WC_12.jpg,2,clover,0.449
+35_WC_13.jpg,2,clover,0.947
+35_WC_14.jpg,2,clover,0.371
+35_WC_15.jpg,2,clover,1.038
+35_WC_16.jpg,2,clover,1.401
+35_WC_17.jpg,2,clover,0.952
+35_WC_18.jpg,2,clover,0.474
+36_VWR_1.jpg,2,virginia ,0.001
+36_VWR_2.jpg,2,virginia ,0.72
+36_VWR_3.jpg,2,virginia ,0.19
+36_VWR_4.jpg,2,virginia ,0.03
+36_VWR_5.jpg,2,virginia ,0.02
+36_VWR_6.jpg,2,virginia ,0.2
+36_VWR_7.jpg,2,virginia ,0.05
+36_VWR_8.jpg,2,virginia ,0.04
+36_VWR_9.jpg,2,virginia ,1.45
+36_WC_10.jpg,2,clover,0.17
+36_WC_11.jpg,2,clover,0.18
+36_WC_12.jpg,2,clover,0.98
+36_WC_13.jpg,2,clover,0.01
+36_WC_14.jpg,2,clover,0.42
+36_WC_15.jpg,2,clover,0.64
+36_WC_16.jpg,2,clover,0.91
+36_WC_17.jpg,2,clover,0.48
+36_WC_18.jpg,2,clover,0.44
+37_BG_1.jpg,2,barnyard,0.06
+37_BG_2.jpg,2,barnyard,0.03
+37_BG_3.jpg,2,barnyard,0.98
+37_BG_4.jpg,2,barnyard,0.27
+37_BG_5.jpg,2,barnyard,1.28
+37_BG_6.jpg,2,barnyard,0.42
+37_BG_7.jpg,2,barnyard,0.45
+37_BG_8.jpg,2,barnyard,0.63
+37_BG_9.jpg,2,barnyard,0.36
+37_SG_10.jpg,2,switchgrass ,0.08
+37_SG_11.jpg,2,switchgrass ,0.14
+37_SG_12.jpg,2,switchgrass ,0.24
+37_SG_13.jpg,2,switchgrass ,0.03
+37_SG_14.jpg,2,switchgrass ,0.01
+37_SG_15.jpg,2,switchgrass ,0.01
+37_SG_16.jpg,2,switchgrass ,0.03
+37_SG_17.jpg,2,switchgrass ,0.09
+37_SG_18.jpg,2,switchgrass ,0.09
+38_SG_1.jpg,2,switchgrass ,0.01
+38_SG_2.jpg,2,switchgrass ,0.03
+38_SG_3.jpg,2,switchgrass ,0.04
+38_SG_4.jpg,2,switchgrass ,0.08
+38_SG_5.jpg,2,switchgrass ,0.01
+38_SG_6.jpg,2,switchgrass ,0.07
+38_SG_7.jpg,2,switchgrass ,0.09
+38_SG_8.jpg,2,switchgrass ,0.29
+38_SG_9.jpg,2,switchgrass ,0.24
+38_BG_10.jpg,2,barnyard,0.15
+38_BG_11.jpg,2,barnyard,0.44
+38_BG_12.jpg,2,barnyard,0.11
+38_BG_13.jpg,2,barnyard,0.68
+38_BG_14.jpg,2,barnyard,0.35
+38_BG_15.jpg,2,barnyard,0.6
+38_BG_16.jpg,2,barnyard,0.61
+38_BG_17.jpg,2,barnyard,0.16
+38_BG_18.jpg,2,barnyard,0.13
+39_SG_1.jpg,2,switchgrass ,0.03
+39_SG_2.jpg,2,switchgrass ,0.03
+39_SG_3.jpg,2,switchgrass ,0.42
+39_SG_4.jpg,2,switchgrass ,0.11
+39_SG_5.jpg,2,switchgrass ,0.14
+39_SG_6.jpg,2,switchgrass ,0.24
+39_SG_7.jpg,2,switchgrass ,0.25
+39_SG_8.jpg,2,switchgrass ,0.34
+39_SG_9.jpg,2,switchgrass ,0.05
+39_BG_10.jpg,2,barnyard,0.02
+39_BG_11.jpg,2,barnyard,0.08
+39_BG_12.jpg,2,barnyard,0.03
+39_BG_13.jpg,2,barnyard,0.07
+39_BG_14.jpg,2,barnyard,0.07
+39_BG_15.jpg,2,barnyard,0.06
+39_BG_16.jpg,2,barnyard,0.01
+39_BG_17.jpg,2,barnyard,0.24
+39_BG_18.jpg,2,barnyard,0.23
+40_RT_1.jpg,2,redtop,0.04
+40_RT_2.jpg,2,redtop,0.03
+40_RT_3.jpg,2,redtop,0.13
+40_RT_4.jpg,2,redtop,0.2
+40_RT_5.jpg,2,redtop,0.21
+40_RT_6.jpg,2,redtop,0.12
+40_RT_7.jpg,2,redtop,0.13
+40_RT_8.jpg,2,redtop,0.58
+40_RT_9.jpg,2,redtop,0.85
+40_SG_10.jpg,2,switchgrass ,0.54
+40_SG_11.jpg,2,switchgrass ,1.79
+40_SG_12.jpg,2,switchgrass ,2.04
+40_SG_13.jpg,2,switchgrass ,4.74
+40_SG_14.jpg,2,switchgrass ,2.07
+40_SG_15.jpg,2,switchgrass ,2.76
+40_SG_16.jpg,2,switchgrass ,2.52
+40_SG_17.jpg,2,switchgrass ,4.93
+40_SG_18.jpg,2,switchgrass ,6.77
+41_RT_1.jpg,2,redtop,0.13
+41_RT_2.jpg,2,redtop,0.14
+41_RT_3.jpg,2,redtop,0.04
+41_RT_4.jpg,2,redtop,0.33
+41_RT_5.jpg,2,redtop,0.16
+41_RT_6.jpg,2,redtop,0.08
+41_RT_7.jpg,2,redtop,0.25
+41_RT_8.jpg,2,redtop,0.07
+41_RT_9.jpg,2,redtop,0.27
+41_SG_10.jpg,2,switchgrass ,0.59
+41_SG_11.jpg,2,switchgrass ,0.18
+41_SG_12.jpg,2,switchgrass ,0.87
+41_SG_13.jpg,2,switchgrass ,0.45
+41_SG_14.jpg,2,switchgrass ,0.6
+41_SG_15.jpg,2,switchgrass ,0.52
+41_SG_16.jpg,2,switchgrass ,0.34
+41_SG_17.jpg,2,switchgrass ,0.83
+41_SG_18.jpg,2,switchgrass ,0.52
+42_RT_1.jpg,2,redtop,0.065
+42_RT_2.jpg,2,redtop,0.449
+42_RT_3.jpg,2,redtop,0.429
+42_RT_4.jpg,2,redtop,0.025
+42_RT_5.jpg,2,redtop,0.017
+42_RT_6.jpg,2,redtop,0.047
+42_RT_7.jpg,2,redtop,0.409
+42_RT_8.jpg,2,redtop,0.207
+42_RT_9.jpg,2,redtop,0.018
+42_SG_10.jpg,2,switchgrass ,0.228
+42_SG_11.jpg,2,switchgrass ,0.984
+42_SG_12.jpg,2,switchgrass ,1.232
+42_SG_13.jpg,2,switchgrass ,0.352
+42_SG_14.jpg,2,switchgrass ,5.112
+42_SG_15.jpg,2,switchgrass ,9.03
+42_SG_16.jpg,2,switchgrass ,1.592
+42_SG_17.jpg,2,switchgrass ,2.025
+42_SG_18.jpg,2,switchgrass ,2.53
+43_SG_1.jpg,2,switchgrass ,0.059
+43_SG_2.jpg,2,switchgrass ,0.024
+43_SG_3.jpg,2,switchgrass ,0.023
+43_SG_4.jpg,2,switchgrass ,0.037
+43_SG_5.jpg,2,switchgrass ,0.075
+43_SG_6.jpg,2,switchgrass ,0.019
+43_SG_7.jpg,2,switchgrass ,0.007
+43_SG_8.jpg,2,switchgrass ,0.04
+43_SG_9.jpg,2,switchgrass ,0.005
+43_AR_10.jpg,2,ryegrass,0.239
+43_AR_11.jpg,2,ryegrass,0.165
+43_AR_12.jpg,2,ryegrass,0.227
+43_AR_13.jpg,2,ryegrass,0.528
+43_AR_14.jpg,2,ryegrass,0.115
+43_AR_15.jpg,2,ryegrass,0.053
+43_AR_16.jpg,2,ryegrass,0.06
+43_AR_17.jpg,2,ryegrass,0.172
+43_AR_18.jpg,2,ryegrass,0.112
+44_SG_1.jpg,2,switchgrass ,2.32
+44_SG_2.jpg,2,switchgrass ,0.3
+44_SG_3.jpg,2,switchgrass ,0.03
+44_SG_4.jpg,2,switchgrass ,0.88
+44_SG_5.jpg,2,switchgrass ,1.59
+44_SG_6.jpg,2,switchgrass ,0.31
+44_SG_7.jpg,2,switchgrass ,0.1
+44_SG_8.jpg,2,switchgrass ,0.06
+44_SG_9.jpg,2,switchgrass ,0.12
+44_AR_10.jpg,2,ryegrass,0.02
+44_AR_11.jpg,2,ryegrass,0.3
+44_AR_12.jpg,2,ryegrass,0.03
+44_AR_13.jpg,2,ryegrass,0.08
+44_AR_14.jpg,2,ryegrass,0.29
+44_AR_15.jpg,2,ryegrass,0.03
+44_AR_16.jpg,2,ryegrass,0.49
+44_AR_17.jpg,2,ryegrass,0.02
+44_AR_18.jpg,2,ryegrass,0.53
+45_AR_1.jpg,2,ryegrass,0.02
+45_AR_2.jpg,2,ryegrass,0.08
+45_AR_3.jpg,2,ryegrass,0.02
+45_AR_4.jpg,2,ryegrass,0.05
+45_AR_5.jpg,2,ryegrass,0.01
+45_AR_6.jpg,2,ryegrass,0.1
+45_AR_7.jpg,2,ryegrass,0.46
+45_AR_8.jpg,2,ryegrass,0.14
+45_AR_9.jpg,2,ryegrass,0.01
+45_SG_10.jpg,2,switchgrass ,0.07
+45_SG_11.jpg,2,switchgrass ,0.06
+45_SG_12.jpg,2,switchgrass ,0.4
+45_SG_13.jpg,2,switchgrass ,0.27
+45_SG_14.jpg,2,switchgrass ,0.1
+45_SG_15.jpg,2,switchgrass ,0.37
+45_SG_16.jpg,2,switchgrass ,0.14
+45_SG_17.jpg,2,switchgrass ,0.15
+45_SG_18.jpg,2,switchgrass ,0.16
+46_SG_1.jpg,2,switchgrass ,0.57
+46_SG_2.jpg,2,switchgrass ,1.19
+46_SG_3.jpg,2,switchgrass ,0.86
+46_SG_4.jpg,2,switchgrass ,0.12
+46_SG_5.jpg,2,switchgrass ,0.99
+46_SG_6.jpg,2,switchgrass ,0.24
+46_SG_7.jpg,2,switchgrass ,6.09
+46_SG_8.jpg,2,switchgrass ,3.37
+46_SG_9.jpg,2,switchgrass ,3.06
+46_WC_10.jpg,2,clover,0.56
+46_WC_11.jpg,2,clover,0.77
+46_WC_12.jpg,2,clover,0.25
+46_WC_13.jpg,2,clover,1.34
+46_WC_14.jpg,2,clover,0.41
+46_WC_15.jpg,2,clover,0.51
+46_WC_16.jpg,2,clover,0.38
+46_WC_17.jpg,2,clover,1.15
+46_WC_18.jpg,2,clover,0.36
+47_WC_1.jpg,2,clover,0.729
+47_WC_2.jpg,2,clover,0.302
+47_WC_3.jpg,2,clover,0.84
+47_WC_4.jpg,2,clover,0.952
+47_WC_5.jpg,2,clover,0.907
+47_WC_6.jpg,2,clover,0.95
+47_WC_7.jpg,2,clover,0.317
+47_WC_8.jpg,2,clover,1.851
+47_WC_9.jpg,2,clover,0.38
+47_SG_10.jpg,2,switchgrass ,1.705
+47_SG_11.jpg,2,switchgrass ,0.048
+47_SG_12.jpg,2,switchgrass ,0.099
+47_SG_13.jpg,2,switchgrass ,0.559
+47_SG_14.jpg,2,switchgrass ,0.097
+47_SG_15.jpg,2,switchgrass ,0.946
+47_SG_16.jpg,2,switchgrass ,0.04
+47_SG_17.jpg,2,switchgrass ,0.67
+47_SG_18.jpg,2,switchgrass ,0.509
+48_WC_1.jpg,2,clover,1.06
+48_WC_2.jpg,2,clover,0.95
+48_WC_3.jpg,2,clover,0.3
+48_WC_4.jpg,2,clover,0.01
+48_WC_5.jpg,2,clover,0.01
+48_WC_6.jpg,2,clover,0.79
+48_WC_7.jpg,2,clover,0.07
+48_WC_8.jpg,2,clover,0.19
+48_WC_9.jpg,2,clover,1.96
+48_SG_10.jpg,2,switchgrass ,0.9
+48_SG_11.jpg,2,switchgrass ,2.44
+48_SG_12.jpg,2,switchgrass ,0.68
+48_SG_13.jpg,2,switchgrass ,0.29
+48_SG_14.jpg,2,switchgrass ,0.69
+48_SG_15.jpg,2,switchgrass ,2.63
+48_SG_16.jpg,2,switchgrass ,1.18
+48_SG_17.jpg,2,switchgrass ,0.23
+48_SG_18.jpg,2,switchgrass ,0.1
+49_RT_1.jpg,2,redtop,0.059
+49_RT_2.jpg,2,redtop,0.027
+49_RT_3.jpg,2,redtop,0.022
+49_RT_4.jpg,2,redtop,0.038
+49_RT_5.jpg,2,redtop,0.176
+49_RT_6.jpg,2,redtop,0.055
+49_RT_7.jpg,2,redtop,0.062
+49_RT_8.jpg,2,redtop,0.083
+49_RT_9.jpg,2,redtop,0.104
+49_BG_10.jpg,2,barnyard,0.185
+49_BG_11.jpg,2,barnyard,0.18
+49_BG_12.jpg,2,barnyard,0.073
+49_BG_13.jpg,2,barnyard,0.046
+49_BG_14.jpg,2,barnyard,0.053
+49_BG_15.jpg,2,barnyard,0.232
+49_BG_16.jpg,2,barnyard,0.188
+49_BG_17.jpg,2,barnyard,0.016
+49_BG_18.jpg,2,barnyard,0.808
+50_BG_1.jpg,2,barnyard,0.43
+50_BG_2.jpg,2,barnyard,0.142
+50_BG_3.jpg,2,barnyard,0.047
+50_BG_4.jpg,2,barnyard,0.012
+50_BG_5.jpg,2,barnyard,0.105
+50_BG_6.jpg,2,barnyard,0.008
+50_BG_7.jpg,2,barnyard,0.028
+50_BG_8.jpg,2,barnyard,0.021
+50_BG_9.jpg,2,barnyard,0.018
+50_RT_10.jpg,2,redtop,0.015
+50_RT_11.jpg,2,redtop,0.012
+50_RT_12.jpg,2,redtop,0.005
+50_RT_13.jpg,2,redtop,0.007
+50_RT_14.jpg,2,redtop,0.035
+50_RT_15.jpg,2,redtop,0.021
+50_RT_16.jpg,2,redtop,0.004
+50_RT_17.jpg,2,redtop,0.019
+50_RT_18.jpg,2,redtop,0.016
+51_BG_1.jpg,2,barnyard,0.12
+51_BG_2.jpg,2,barnyard,0.16
+51_BG_3.jpg,2,barnyard,0.09
+51_BG_4.jpg,2,barnyard,0.03
+51_BG_5.jpg,2,barnyard,0.23
+51_BG_6.jpg,2,barnyard,0.48
+51_BG_7.jpg,2,barnyard,0.32
+51_BG_8.jpg,2,barnyard,0.56
+51_BG_9.jpg,2,barnyard,0.53
+51_RT_10.jpg,2,redtop,0.01
+51_RT_11.jpg,2,redtop,0.01
+51_RT_12.jpg,2,redtop,0.01
+51_RT_13.jpg,2,redtop,0.01
+51_RT_14.jpg,2,redtop,0.01
+51_RT_15.jpg,2,redtop,0.01
+51_RT_16.jpg,2,redtop,0.01
+51_RT_17.jpg,2,redtop,0.02
+51_RT_18.jpg,2,redtop,0.04
+52_AR_1.jpg,2,ryegrass,0.02
+52_AR_2.jpg,2,ryegrass,0.01
+52_AR_3.jpg,2,ryegrass,0.01
+52_AR_4.jpg,2,ryegrass,0.01
+52_AR_5.jpg,2,ryegrass,0.02
+52_AR_6.jpg,2,ryegrass,0.01
+52_AR_7.jpg,2,ryegrass,0.01
+52_AR_8.jpg,2,ryegrass,0.07
+52_AR_9.jpg,2,ryegrass,0.01
+52_BG_10.jpg,2,barnyard,0.21
+52_BG_11.jpg,2,barnyard,0.18
+52_BG_12.jpg,2,barnyard,0.21
+52_BG_13.jpg,2,barnyard,0.32
+52_BG_14.jpg,2,barnyard,0.41
+52_BG_15.jpg,2,barnyard,0.43
+52_BG_16.jpg,2,barnyard,0.58
+52_BG_17.jpg,2,barnyard,0.49
+52_BG_18.jpg,2,barnyard,0.47
+53_AR_1.jpg,2,ryegrass,0.04
+53_AR_2.jpg,2,ryegrass,0.15
+53_AR_3.jpg,2,ryegrass,0.14
+53_AR_4.jpg,2,ryegrass,0.06
+53_AR_5.jpg,2,ryegrass,0.05
+53_AR_6.jpg,2,ryegrass,0.01
+53_AR_7.jpg,2,ryegrass,0.26
+53_AR_8.jpg,2,ryegrass,0.12
+53_AR_9.jpg,2,ryegrass,0.02
+53_BG_10.jpg,2,barnyard,0.04
+53_BG_11.jpg,2,barnyard,0.02
+53_BG_12.jpg,2,barnyard,0.2
+53_BG_13.jpg,2,barnyard,0.17
+53_BG_14.jpg,2,barnyard,0.5
+53_BG_15.jpg,2,barnyard,0.99
+53_BG_16.jpg,2,barnyard,0.75
+53_BG_17.jpg,2,barnyard,0.47
+53_BG_18.jpg,2,barnyard,0.01
+54_AR_1.jpg,2,ryegrass,0.19
+54_AR_2.jpg,2,ryegrass,0.12
+54_AR_3.jpg,2,ryegrass,0.05
+54_AR_4.jpg,2,ryegrass,0.12
+54_AR_5.jpg,2,ryegrass,0.03
+54_AR_6.jpg,2,ryegrass,0.09
+54_AR_7.jpg,2,ryegrass,0.06
+54_AR_8.jpg,2,ryegrass,0.12
+54_AR_9.jpg,2,ryegrass,0.21
+54_BG_10.jpg,2,barnyard,0.09
+54_BG_11.jpg,2,barnyard,0.01
+54_BG_12.jpg,2,barnyard,0.08
+54_BG_13.jpg,2,barnyard,0.05
+54_BG_14.jpg,2,barnyard,0.1
+54_BG_15.jpg,2,barnyard,0.18
+54_BG_16.jpg,2,barnyard,0.11
+54_BG_17.jpg,2,barnyard,0.15
+54_BG_18.jpg,2,barnyard,0.13
+55_BG_1.jpg,2,barnyard,0.04
+55_BG_2.jpg,2,barnyard,0.03
+55_BG_3.jpg,2,barnyard,0.05
+55_BG_4.jpg,2,barnyard,0
+55_BG_5.jpg,2,barnyard,0.02
+55_BG_6.jpg,2,barnyard,0
+55_BG_7.jpg,2,barnyard,0.13
+55_BG_8.jpg,2,barnyard,0.02
+55_BG_9.jpg,2,barnyard,0.47
+55_WC_10.jpg,2,clover,0.38
+55_WC_11.jpg,2,clover,0.18
+55_WC_12.jpg,2,clover,0.09
+55_WC_13.jpg,2,clover,0.89
+55_WC_14.jpg,2,clover,0.42
+55_WC_15.jpg,2,clover,0.58
+55_WC_16.jpg,2,clover,0.73
+55_WC_17.jpg,2,clover,0.06
+55_WC_18.jpg,2,clover,0.16
+56_WC_1.jpg,2,clover,0.15
+56_WC_2.jpg,2,clover,0.18
+56_WC_3.jpg,2,clover,0.07
+56_WC_4.jpg,2,clover,0.12
+56_WC_5.jpg,2,clover,0.04
+56_WC_6.jpg,2,clover,0.09
+56_WC_7.jpg,2,clover,0.11
+56_WC_8.jpg,2,clover,0.26
+56_WC_9.jpg,2,clover,0.06
+56_BG_10.jpg,2,barnyard,0.17
+56_BG_11.jpg,2,barnyard,0.12
+56_BG_12.jpg,2,barnyard,0.04
+56_BG_13.jpg,2,barnyard,0.19
+56_BG_14.jpg,2,barnyard,0.2
+56_BG_15.jpg,2,barnyard,0.14
+56_BG_16.jpg,2,barnyard,0.99
+56_BG_17.jpg,2,barnyard,0.5
+56_BG_18.jpg,2,barnyard,0.25
+57_WC_1.jpg,2,clover,0.14
+57_WC_2.jpg,2,clover,0.17
+57_WC_3.jpg,2,clover,0.17
+57_WC_4.jpg,2,clover,0.08
+57_WC_5.jpg,2,clover,0.1
+57_WC_6.jpg,2,clover,0.18
+57_WC_7.jpg,2,clover,0.02
+57_WC_8.jpg,2,clover,0.21
+57_WC_9.jpg,2,clover,0.05
+57_BG_10.jpg,2,barnyard,0.15
+57_BG_11.jpg,2,barnyard,0.83
+57_BG_12.jpg,2,barnyard,0.23
+57_BG_13.jpg,2,barnyard,0.08
+57_BG_14.jpg,2,barnyard,0.19
+57_BG_15.jpg,2,barnyard,0.01
+57_BG_16.jpg,2,barnyard,0.04
+57_BG_17.jpg,2,barnyard,0.11
+57_BG_18.jpg,2,barnyard,0.13
+58_RT_1.jpg,2,redtop,0.061
+58_RT_2.jpg,2,redtop,0.135
+58_RT_3.jpg,2,redtop,0.077
+58_RT_4.jpg,2,redtop,0.11
+58_RT_5.jpg,2,redtop,0.061
+58_RT_6.jpg,2,redtop,0.355
+58_RT_7.jpg,2,redtop,0.133
+58_RT_8.jpg,2,redtop,0.435
+58_RT_9.jpg,2,redtop,0.113
+58_AR_10.jpg,2,ryegrass,0.19
+58_AR_11.jpg,2,ryegrass,0.36
+58_AR_12.jpg,2,ryegrass,0.053
+58_AR_13.jpg,2,ryegrass,0.203
+58_AR_14.jpg,2,ryegrass,0.487
+58_AR_15.jpg,2,ryegrass,0.018
+58_AR_16.jpg,2,ryegrass,0.042
+58_AR_17.jpg,2,ryegrass,0.178
+58_AR_18.jpg,2,ryegrass,0.154
+59_RT_1.jpg,2,redtop,0.11
+59_RT_2.jpg,2,redtop,0.06
+59_RT_3.jpg,2,redtop,0.11
+59_RT_4.jpg,2,redtop,0.13
+59_RT_5.jpg,2,redtop,0.37
+59_RT_6.jpg,2,redtop,0.22
+59_RT_7.jpg,2,redtop,0.22
+59_RT_8.jpg,2,redtop,0.15
+59_RT_9.jpg,2,redtop,0.44
+59_AR_10.jpg,2,ryegrass,0.44
+59_AR_11.jpg,2,ryegrass,0.14
+59_AR_12.jpg,2,ryegrass,0.74
+59_AR_13.jpg,2,ryegrass,0.43
+59_AR_14.jpg,2,ryegrass,0.17
+59_AR_15.jpg,2,ryegrass,0.18
+59_AR_16.jpg,2,ryegrass,0.12
+59_AR_17.jpg,2,ryegrass,0.17
+59_AR_18.jpg,2,ryegrass,0.11
+60_RT_1.jpg,2,redtop,0.054
+60_RT_2.jpg,2,redtop,0.157
+60_RT_3.jpg,2,redtop,0.027
+60_RT_4.jpg,2,redtop,0.011
+60_RT_5.jpg,2,redtop,0.013
+60_RT_6.jpg,2,redtop,0.021
+60_RT_7.jpg,2,redtop,0.23
+60_RT_8.jpg,2,redtop,0.011
+60_RT_9.jpg,2,redtop,0.002
+60_AR_10.jpg,2,ryegrass,0.031
+60_AR_11.jpg,2,ryegrass,0.022
+60_AR_12.jpg,2,ryegrass,0.045
+60_AR_13.jpg,2,ryegrass,0.006
+60_AR_14.jpg,2,ryegrass,0.034
+60_AR_15.jpg,2,ryegrass,0.01
+60_AR_16.jpg,2,ryegrass,0.013
+60_AR_17.jpg,2,ryegrass,0.05
+60_AR_18.jpg,2,ryegrass,0.038
+61_WC_1.jpg,2,clover,0.63
+61_WC_2.jpg,2,clover,0.59
+61_WC_3.jpg,2,clover,1.01
+61_WC_4.jpg,2,clover,0.35
+61_WC_5.jpg,2,clover,0.94
+61_WC_6.jpg,2,clover,0.53
+61_WC_7.jpg,2,clover,0.27
+61_WC_8.jpg,2,clover,0.72
+61_WC_9.jpg,2,clover,0.71
+61_RT_10.jpg,2,redtop,0.6
+61_RT_11.jpg,2,redtop,1.02
+61_RT_12.jpg,2,redtop,1.44
+61_RT_13.jpg,2,redtop,0.08
+61_RT_14.jpg,2,redtop,0.2
+61_RT_15.jpg,2,redtop,0.12
+61_RT_16.jpg,2,redtop,0.09
+61_RT_17.jpg,2,redtop,0.08
+61_RT_18.jpg,2,redtop,0.09
+62_WC_1.jpg,2,clover,2.04
+62_WC_2.jpg,2,clover,0.05
+62_WC_3.jpg,2,clover,1.06
+62_WC_4.jpg,2,clover,0.4
+62_WC_5.jpg,2,clover,0.1
+62_WC_6.jpg,2,clover,0.08
+62_WC_7.jpg,2,clover,0.11
+62_WC_8.jpg,2,clover,0.73
+62_WC_9.jpg,2,clover,0.71
+62_RT_10.jpg,2,redtop,0.72
+62_RT_11.jpg,2,redtop,0.56
+62_RT_12.jpg,2,redtop,0.47
+62_RT_13.jpg,2,redtop,0.53
+62_RT_14.jpg,2,redtop,0.08
+62_RT_15.jpg,2,redtop,0.1
+62_RT_16.jpg,2,redtop,0.07
+62_RT_17.jpg,2,redtop,1.13
+62_RT_18.jpg,2,redtop,1.03
+63_RT_1.jpg,2,redtop,0.08
+63_RT_2.jpg,2,redtop,0.57
+63_RT_3.jpg,2,redtop,0.03
+63_RT_4.jpg,2,redtop,0.08
+63_RT_5.jpg,2,redtop,0.01
+63_RT_6.jpg,2,redtop,0.1
+63_RT_7.jpg,2,redtop,0.01
+63_RT_8.jpg,2,redtop,0.02
+63_RT_9.jpg,2,redtop,0.06
+63_WC_10.jpg,2,clover,0.77
+63_WC_11.jpg,2,clover,0.58
+63_WC_12.jpg,2,clover,0.67
+63_WC_13.jpg,2,clover,0.03
+63_WC_14.jpg,2,clover,0.25
+63_WC_15.jpg,2,clover,0.74
+63_WC_16.jpg,2,clover,0.4
+63_WC_17.jpg,2,clover,1.26
+63_WC_18.jpg,2,clover,1.54
+64_AR_1.jpg,2,ryegrass,0.1
+64_AR_2.jpg,2,ryegrass,0.01
+64_AR_3.jpg,2,ryegrass,0.06
+64_AR_4.jpg,2,ryegrass,0.07
+64_AR_5.jpg,2,ryegrass,0.26
+64_AR_6.jpg,2,ryegrass,1.13
+64_AR_7.jpg,2,ryegrass,0.2
+64_AR_8.jpg,2,ryegrass,0.22
+64_AR_9.jpg,2,ryegrass,0.23
+64_WC_10.jpg,2,clover,0.31
+64_WC_11.jpg,2,clover,0.15
+64_WC_12.jpg,2,clover,0.12
+64_WC_13.jpg,2,clover,0.09
+64_WC_14.jpg,2,clover,0.27
+64_WC_15.jpg,2,clover,0.15
+64_WC_16.jpg,2,clover,0.14
+64_WC_17.jpg,2,clover,0.11
+64_WC_18.jpg,2,clover,0.28
+65_WC_1.jpg,2,clover,0
+65_WC_2.jpg,2,clover,0.06
+65_WC_3.jpg,2,clover,0.02
+65_WC_4.jpg,2,clover,0.03
+65_WC_5.jpg,2,clover,0.03
+65_WC_6.jpg,2,clover,0.95
+65_WC_7.jpg,2,clover,0.18
+65_WC_8.jpg,2,clover,0.08
+65_WC_9.jpg,2,clover,0.09
+65_AR_10.jpg,2,ryegrass,0.44
+65_AR_11.jpg,2,ryegrass,0.27
+65_AR_12.jpg,2,ryegrass,0.25
+65_AR_13.jpg,2,ryegrass,0.57
+65_AR_14.jpg,2,ryegrass,0.45
+65_AR_15.jpg,2,ryegrass,0.51
+65_AR_16.jpg,2,ryegrass,0.12
+65_AR_17.jpg,2,ryegrass,0.14
+65_AR_18.jpg,2,ryegrass,0.54
+66_WC_1.jpg,2,clover,0.07
+66_WC_2.jpg,2,clover,0.14
+66_WC_3.jpg,2,clover,0.17
+66_WC_4.jpg,2,clover,0.21
+66_WC_5.jpg,2,clover,0.39
+66_WC_6.jpg,2,clover,0.8
+66_WC_7.jpg,2,clover,0.27
+66_WC_8.jpg,2,clover,0.31
+66_WC_9.jpg,2,clover,0.12
+66_AR_10.jpg,2,ryegrass,0.14
+66_AR_11.jpg,2,ryegrass,0.18
+66_AR_12.jpg,2,ryegrass,0.06
+66_AR_13.jpg,2,ryegrass,0.03
+66_AR_14.jpg,2,ryegrass,0.02
+66_AR_15.jpg,2,ryegrass,0.13
+66_AR_16.jpg,2,ryegrass,0.05
+66_AR_17.jpg,2,ryegrass,0.03
+66_AR_18.jpg,2,ryegrass,0.03
+67_VWR_1.jpg,4,virginia ,0.01
+67_VWR_2.jpg,4,virginia ,0.04
+67_VWR_3.jpg,4,virginia ,0.01
+67_VWR_4.jpg,4,virginia ,0.01
+67_VWR_5.jpg,4,virginia ,0.01
+67_WC_6.jpg,4,clover,0.01
+67_WC_7.jpg,4,clover,0.01
+67_WC_8.jpg,4,clover,0.01
+67_RT_9.jpg,4,redtop,0.01
+67_RT_10.jpg,4,redtop,0.04
+67_RT_11.jpg,4,redtop,0.01
+67_BG_12.jpg,4,barnyard,1.77
+67_BG_13.jpg,4,barnyard,2.06
+67_BG_14.jpg,4,barnyard,2.18
+67_BG_15.jpg,4,barnyard,0.69
+67_BG_16.jpg,4,barnyard,1.32
+67_BG_17.jpg,4,barnyard,0.61
+67_BG_18.jpg,4,barnyard,0.46
+68_WC_1.jpg,4,clover,0.09
+68_WC_2.jpg,4,clover,0.06
+68_WC_3.jpg,4,clover,0.01
+68_WC_4.jpg,4,clover,0.01
+68_VWR_5.jpg,4,virginia ,0.02
+68_VWR_6.jpg,4,virginia ,0.01
+68_VWR_7.jpg,4,virginia ,0.01
+68_VWR_8.jpg,4,virginia ,0.01
+68_RT_9.jpg,4,redtop,0.05
+68_RT_10.jpg,4,redtop,0.02
+68_RT_11.jpg,4,redtop,0.01
+68_RT_12.jpg,4,redtop,0.13
+68_RT_13.jpg,4,redtop,0.02
+68_BG_14.jpg,4,barnyard,0.71
+68_BG_15.jpg,4,barnyard,0.74
+68_BG_16.jpg,4,barnyard,0.61
+68_BG_17.jpg,4,barnyard,2.15
+68_BG_18.jpg,4,barnyard,0.95
+69_RT_1.jpg,4,redtop,0.11
+69_RT_2.jpg,4,redtop,0.08
+69_RT_3.jpg,4,redtop,0.04
+69_RT_4.jpg,4,redtop,0.07
+69_VWR_5.jpg,4,virginia,0.01
+69_VWR_6.jpg,4,virginia,0.02
+69_VWR_7.jpg,4,virginia,0.01
+69_VWR_8.jpg,4,virginia,0.05
+69_VWR_9.jpg,4,virginia,0.01
+69_AR_10.jpg,4,ryegrass,0.18
+69_AR_11.jpg,4,ryegrass,0.06
+69_AR_12.jpg,4,ryegrass,0.11
+69_BG_13.jpg,4,barnyard,0.32
+69_BG_14.jpg,4,barnyard,0.31
+69_BG_15.jpg,4,barnyard,0.22
+69_BG_16.jpg,4,barnyard,0.15
+69_BG_17.jpg,4,barnyard,0.43
+69_BG_18.jpg,4,barnyard,0.15
+70_BG_1.jpg,4,barnyard,0.02
+70_BG_2.jpg,4,barnyard,0.04
+70_BG_3.jpg,4,barnyard,0.04
+70_BG_4.jpg,4,barnyard,0.03
+70_BG_5.jpg,4,barnyard,0.06
+70_RT_6.jpg,4,redtop,0.08
+70_RT_7.jpg,4,redtop,0.14
+70_RT_8.jpg,4,redtop,0.16
+70_RT_9.jpg,4,redtop,0.11
+70_VWR_10.jpg,4,virginia,0.06
+70_VWR_11.jpg,4,virginia,0.01
+70_VWR_12.jpg,4,virginia,0.06
+70_VWR_13.jpg,4,virginia,0.06
+70_AR_14.jpg,4,ryegrass,0.14
+70_AR_15.jpg,4,ryegrass,1.76
+70_AR_16.jpg,4,ryegrass,0.09
+70_AR_17.jpg,4,ryegrass,0.05
+70_AR_18.jpg,4,ryegrass,0.25
+71_SG_1.jpg,4,switchgrass,0.02
+71_SG_2.jpg,4,switchgrass,0.91
+71_SG_3.jpg,4,switchgrass,0.07
+71_SG_4.jpg,4,switchgrass,0.15
+71_SG_5.jpg,4,switchgrass,0.37
+71_SG_6.jpg,4,switchgrass,0.13
+71_WC_7.jpg,4,clover,0.03
+71_WC_8.jpg,4,clover,0.03
+71_WC_9.jpg,4,clover,0.02
+71_WC_10.jpg,4,clover,0.01
+71_WC_11.jpg,4,clover,0.08
+71_RT_12.jpg,4,redtop,0.1
+71_RT_13.jpg,4,redtop,0.04
+71_RT_14.jpg,4,redtop,0.12
+71_BG_15.jpg,4,barnyard,0.81
+71_BG_16.jpg,4,barnyard,0.17
+71_BG_17.jpg,4,barnyard,1.49
+71_BG_18.jpg,4,barnyard,4.16
+72_RT_1.jpg,4,redtop,0.158
+72_RT_2.jpg,4,redtop,0.042
+72_RT_3.jpg,4,redtop,0.325
+72_RT_4.jpg,4,redtop,0.138
+72_WC_5.jpg,4,clover,0.21
+72_WC_6.jpg,4,clover,0.092
+72_WC_7.jpg,4,clover,0.178
+72_WC_8.jpg,4,clover,0.066
+72_SG_9.jpg,4,switchgrass,0.275
+72_SG_10.jpg,4,switchgrass,1.017
+72_SG_11.jpg,4,switchgrass,0.29
+72_SG_12.jpg,4,switchgrass,0.068
+72_BG_13.jpg,4,barnyard,0.336
+72_BG_14.jpg,4,barnyard,0.067
+72_BG_15.jpg,4,barnyard,0.807
+72_BG_16.jpg,4,barnyard,0.202
+72_BG_17.jpg,4,barnyard,0.36
+72_BG_18.jpg,4,barnyard,0.651
+73_BG_1.jpg,4,barnyard,0.023
+73_BG_2.jpg,4,barnyard,0.033
+73_BG_3.jpg,4,barnyard,0.27
+73_BG_4.jpg,4,barnyard,0.97
+73_BG_5.jpg,4,barnyard,0.5
+73_AR_6.jpg,4,ryegrass,0.06
+73_AR_7.jpg,4,ryegrass,0.08
+73_AR_8.jpg,4,ryegrass,0.12
+73_AR_9.jpg,4,ryegrass,0.07
+73_AR_10.jpg,4,ryegrass,0.05
+73_WC_11.jpg,4,clover,0.09
+73_WC_12.jpg,4,clover,0.05
+73_WC_13.jpg,4,clover,0.05
+73_WC_14.jpg,4,clover,0.01
+73_WC_15.jpg,4,clover,0.05
+73_SG_16.jpg,4,switchgrass,0.1
+73_SG_17.jpg,4,switchgrass,0.13
+73_SG_18.jpg,4,switchgrass,0.18
+74_AR_1.jpg,4,ryegrass,0.03
+74_AR_2.jpg,4,ryegrass,0.25
+74_AR_3.jpg,4,ryegrass,0.21
+74_SG_4.jpg,4,switchgrass,0.84
+74_SG_5.jpg,4,switchgrass,0.01
+74_SG_6.jpg,4,switchgrass,0.02
+74_SG_7.jpg,4,switchgrass,0.38
+74_SG_8.jpg,4,switchgrass,0.07
+74_WC_9.jpg,4,clover,0.01
+74_WC_10.jpg,4,clover,0.12
+74_WC_11.jpg,4,clover,0.06
+74_BG_12.jpg,4,barnyard,0.1
+74_BG_13.jpg,4,barnyard,0.01
+74_BG_14.jpg,4,barnyard,0.01
+74_BG_15.jpg,4,barnyard,0.74
+74_BG_16.jpg,4,barnyard,1.08
+74_BG_17.jpg,4,barnyard,0.4
+74_BG_18.jpg,4,barnyard,0.58
+75_VWR_1.jpg,4,virginia ,0.01
+75_VWR_2.jpg,4,virginia ,0.01
+75_VWR_3.jpg,4,virginia ,0.01
+75_SG_4.jpg,4,switchgrass,0.01
+75_SG_5.jpg,4,switchgrass,0.08
+75_SG_6.jpg,4,switchgrass,0.05
+75_SG_7.jpg,4,switchgrass,0.01
+75_RT_8.jpg,4,redtop,0.11
+75_RT_9.jpg,4,redtop,0.05
+75_RT_10.jpg,4,redtop,0.01
+75_RT_11.jpg,4,redtop,0.06
+75_RT_12.jpg,4,redtop,0.02
+75_RT_13.jpg,4,redtop,0.03
+75_BG_14.jpg,4,barnyard,0.1
+75_BG_15.jpg,4,barnyard,0.05
+75_BG_16.jpg,4,barnyard,0.82
+75_BG_17.jpg,4,barnyard,0.5
+75_BG_18.jpg,4,barnyard,1.56
+76_RT_1.jpg,4,redtop,0.08
+76_RT_2.jpg,4,redtop,0.05
+76_RT_3.jpg,4,redtop,0.16
+76_RT_4.jpg,4,redtop,0.12
+76_RT_5.jpg,4,redtop,0.07
+76_VWR_6.jpg,4,virginia ,0.01
+76_VWR_7.jpg,4,virginia ,0.07
+76_VWR_8.jpg,4,virginia ,0.03
+76_SG_9.jpg,4,switchgrass,0.28
+76_SG_10.jpg,4,switchgrass,0.02
+76_SG_11.jpg,4,switchgrass,0.4
+76_SG_12.jpg,4,switchgrass,0.38
+76_SG_13.jpg,4,switchgrass,0.04
+76_BG_14.jpg,4,barnyard,0.23
+76_BG_15.jpg,4,barnyard,0.6
+76_BG_16.jpg,4,barnyard,0.25
+76_BG_17.jpg,4,barnyard,0.04
+76_BG_18.jpg,4,barnyard,0.28
+77_RT_1.jpg,4,redtop,0.219
+77_RT_2.jpg,4,redtop,0.185
+77_RT_3.jpg,4,redtop,0.005
+77_RT_4.jpg,4,redtop,0.105
+77_AR_5.jpg,4,ryegrass,0.027
+77_AR_6.jpg,4,ryegrass,0.037
+77_AR_7.jpg,4,ryegrass,0.093
+77_AR_8.jpg,4,ryegrass,0.126
+77_AR_9.jpg,4,ryegrass,0.011
+77_WC_10.jpg,4,clover,0.066
+77_WC_11.jpg,4,clover,0.251
+77_WC_12.jpg,4,clover,0.158
+77_WC_13.jpg,4,clover,0.031
+77_WC_14.jpg,4,clover,0.032
+77_SG_15.jpg,4,switchgrass,0.188
+77_SG_16.jpg,4,switchgrass,0.768
+77_SG_17.jpg,4,switchgrass,0.293
+77_SG_18.jpg,4,switchgrass,1.772
+78_AR_1.jpg,4,ryegrass,0.06
+78_AR_2.jpg,4,ryegrass,0.21
+78_AR_3.jpg,4,ryegrass,0.07
+78_AR_4.jpg,4,ryegrass,0.13
+78_AR_5.jpg,4,ryegrass,0.79
+78_SG_6.jpg,4,switchgrass,4.23
+78_SG_7.jpg,4,switchgrass,0.01
+78_SG_8.jpg,4,switchgrass,0.97
+78_SG_9.jpg,4,switchgrass,0.19
+78_WC_10.jpg,4,clover,0.01
+78_WC_11.jpg,4,clover,0.84
+78_WC_12.jpg,4,clover,0.83
+78_WC_13.jpg,4,clover,1.03
+78_RT_14.jpg,4,redtop,0.14
+78_RT_15.jpg,4,redtop,0.01
+78_RT_16.jpg,4,redtop,0.07
+78_RT_17.jpg,4,redtop,0.01
+78_RT_18.jpg,4,redtop,0.27
+79_VWR_1.jpg,4,virginia ,0.1
+79_VWR_2.jpg,4,virginia ,0.09
+79_VWR_3.jpg,4,virginia ,0.18
+79_VWR_4.jpg,4,virginia ,0.09
+79_WC_5.jpg,4,clover,0.04
+79_WC_6.jpg,4,clover,0.11
+79_WC_7.jpg,4,clover,0.19
+79_WC_8.jpg,4,clover,0.05
+79_WC_9.jpg,4,clover,0.23
+79_AR_10.jpg,4,ryegrass,0.06
+79_AR_11.jpg,4,ryegrass,0.18
+79_AR_12.jpg,4,ryegrass,0.01
+79_AR_13.jpg,4,ryegrass,0.67
+79_BG_14.jpg,4,barnyard,0.33
+79_BG_15.jpg,4,barnyard,0.34
+79_BG_16.jpg,4,barnyard,0.36
+79_BG_17.jpg,4,barnyard,0.32
+79_BG_18.jpg,4,barnyard,1.6
+80_VWR_1.jpg,4,virginia ,0.07
+80_VWR_2.jpg,4,virginia ,0.03
+80_VWR_3.jpg,4,virginia ,0.07
+80_VWR_4.jpg,4,virginia ,0.16
+80_VWR_5.jpg,4,virginia ,0.1
+80_WC_6.jpg,4,clover,0.04
+80_WC_7.jpg,4,clover,0.16
+80_WC_8.jpg,4,clover,0.012
+80_WC_9.jpg,4,clover,0.07
+80_WC_10.jpg,4,clover,0.02
+80_AR_11.jpg,4,ryegrass,0.01
+80_AR_12.jpg,4,ryegrass,0.14
+80_AR_13.jpg,4,ryegrass,0.07
+80_BG_14.jpg,4,barnyard,0.04
+80_BG_15.jpg,4,barnyard,0.01
+80_BG_16.jpg,4,barnyard,0.08
+80_BG_17.jpg,4,barnyard,0.2
+80_BG_18.jpg,4,barnyard,0.02
+81_RT_1.jpg,4,redtop,0.145
+81_RT_2.jpg,4,redtop,0.188
+81_RT_3.jpg,4,redtop,0.647
+81_AR_4.jpg,4,ryegrass,0.158
+81_AR_5.jpg,4,ryegrass,0.585
+81_AR_6.jpg,4,ryegrass,0.181
+81_AR_7.jpg,4,ryegrass,0.008
+81_AR_8.jpg,4,ryegrass,0.593
+81_VWR_9.jpg,4,virginia ,0.008
+81_VWR_10.jpg,4,virginia ,0.027
+81_VWR_11.jpg,4,virginia ,0.501
+81_VWR_12.jpg,4,virginia ,0.158
+81_VWR_13.jpg,4,virginia ,0.897
+81_SG_14.jpg,4,switchgrass,0.326
+81_SG_15.jpg,4,switchgrass,0.62
+81_SG_16.jpg,4,switchgrass,0.185
+81_SG_17.jpg,4,switchgrass,1.998
+81_SG_18.jpg,4,switchgrass,0.861
+82_RT_1.jpg,4,redtop,0.07
+82_RT_2.jpg,4,redtop,0.01
+82_RT_3.jpg,4,redtop,0.07
+82_VWR_4.jpg,4,virginia ,0.01
+82_VWR_5.jpg,4,virginia ,0.01
+82_VWR_6.jpg,4,virginia ,0.09
+82_VWR_7.jpg,4,virginia ,0.13
+82_AR_8.jpg,4,ryegrass,0.02
+82_AR_9.jpg,4,ryegrass,0.01
+82_AR_10.jpg,4,ryegrass,0.02
+82_AR_11.jpg,4,ryegrass,0.33
+82_AR_12.jpg,4,ryegrass,0.12
+82_SG_13.jpg,4,switchgrass,0.08
+82_SG_14.jpg,4,switchgrass,0.18
+82_SG_15.jpg,4,switchgrass,0.01
+82_SG_16.jpg,4,switchgrass,0.02
+82_SG_17.jpg,4,switchgrass,0.3
+82_SG_18.jpg,4,switchgrass,2.98
+83_WC_1.jpg,6,clover,0.09
+83_WC_2.jpg,6,clover,0.06
+83_WC_3.jpg,6,clover,0.1
+83_SG_4.jpg,6,switchgrass,0.5
+83_SG_5.jpg,6,switchgrass,0.13
+83_SG_6.jpg,6,switchgrass,0.58
+83_RT_7.jpg,6,redtop,0.02
+83_RT_8.jpg,6,redtop,0.01
+83_RT_9.jpg,6,redtop,0.05
+83_VWR_10.jpg,6,virginia ,0.03
+83_VWR_11.jpg,6,virginia ,0.02
+83_VWR_12.jpg,6,virginia ,0.07
+83_AR_13.jpg,6,ryegrass,0.05
+83_AR_14.jpg,6,ryegrass,0.15
+83_AR_15.jpg,6,ryegrass,0.52
+83_BG_16.jpg,6,barnyard,2.07
+83_BG_17.jpg,6,barnyard,6.08
+83_BG_18.jpg,6,barnyard,4.74
+84_WC_1.jpg,6,clover,0.928
+84_WC_2.jpg,6,clover,0.375
+84_WC_3.jpg,6,clover,1.108
+84_RT_4.jpg,6,redtop,0.048
+84_RT_5.jpg,6,redtop,0.113
+84_RT_6.jpg,6,redtop,0.049
+84_VWR_7.jpg,6,virginia ,0.044
+84_VWR_8.jpg,6,virginia ,0.044
+84_VWR_9.jpg,6,virginia ,0.015
+84_SG_10.jpg,6,switchgrass,0.016
+84_SG_11.jpg,6,switchgrass,0.227
+84_SG_12.jpg,6,switchgrass,0.036
+84_AR_13.jpg,6,ryegrass,0.128
+84_AR_14.jpg,6,ryegrass,0.063
+84_AR_15.jpg,6,ryegrass,0.13
+84_BG_16.jpg,6,barnyard,0.363
+84_BG_17.jpg,6,barnyard,0.17
+84_BG_18.jpg,6,barnyard,0.574
+85_AR_1.jpg,6,ryegrass,0.08
+85_AR_2.jpg,6,ryegrass,0.05
+85_AR_3.jpg,6,ryegrass,0.09
+85_WC_4.jpg,6,clover,0.02
+85_WC_5.jpg,6,clover,0.03
+85_WC_6.jpg,6,clover,0.01
+85_SG_7.jpg,6,switchgrass,0.03
+85_SG_8.jpg,6,switchgrass,0.01
+85_SG_9.jpg,6,switchgrass,0.05
+85_RT_10.jpg,6,redtop,0.04
+85_RT_11.jpg,6,redtop,0.06
+85_RT_12.jpg,6,redtop,0.32
+85_VWR_13.jpg,6,virginia ,0.01
+85_VWR_14.jpg,6,virginia ,0.01
+85_VWR_15.jpg,6,virginia ,0.02
+85_BG_16.jpg,6,barnyard,3.02
+85_BG_17.jpg,6,barnyard,1.17
+85_BG_18.jpg,6,barnyard,2.72
